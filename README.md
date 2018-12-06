@@ -1,19 +1,18 @@
 # Deep learning assignment
 
-![PyPI version]
-(https://img.shields.io/badge/python-3.6-green.svg)
+![(https://img.shields.io/badge/python-3.6-green.svg)]
 
 This assignment and covering tutorials were prepared for Big Data 4 Imaging workshop.
 
 There are 3 folders in this repository:
 
-* Deep_learning_assignment
+* <b>Deep_learning_assignment</b>
 In this assignment you will use [Jupyter Notebook](http://jupyter.org/) with [Keras](https://keras.io/), [TensorFlow](http://tensorflow.org/) and other frameworks. 
 
-* Dicom_to_nrrd_converter
+* <b>Dicom_to_nrrd_converter</b>
 Script which will allow you to convert your own dicom data to volume format (nrrd).
 
-* Starting_with_image_processing
+* <b>Starting_with_image_processing</b>
 If you want to start with python and image processing you might want to open this jupyter file and step by step learn how to open and prepare your data using [OpenCV](https://pypi.org/project/opencv-python/),[SimpleITK](http://www.simpleitk.org/SimpleITK/resources/software.html),[Pydicom](https://pydicom.github.io/) and other frameworks.
 
 
