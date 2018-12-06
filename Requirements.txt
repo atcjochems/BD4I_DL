@@ -1,13 +1,13 @@
+tensorflow
 numpy
 pandas
-skimage
 SimpleITK
 opencv-python
 imageio
 seaborn
-tensorflow
 keras
 livelossplot
-sklearn
+scikit-learn
+scikit-image
 pydicom
 tqdm
