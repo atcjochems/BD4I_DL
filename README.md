@@ -1,6 +1,6 @@
 # Deep learning assignment
 
-![(https://img.shields.io/badge/python-3.6-green.svg)]
+![https://img.shields.io/badge/python-3.6-green.svg]
 
 This assignment and covering tutorials were prepared for Big Data 4 Imaging workshop.
 
