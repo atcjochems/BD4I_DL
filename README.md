@@ -7,7 +7,8 @@ This assignment and covering tutorials were prepared for Big Data 4 Imaging work
 There are 3 folders in this repository:
 
 * <b>Deep_learning_assignment</b>
-In this assignment you will use [Jupyter Notebook](http://jupyter.org/) with [Keras](https://keras.io/), [TensorFlow](http://tensorflow.org/) and other frameworks. 
+In this assignment you will use [Jupyter Notebook](http://jupyter.org/) with [Keras](https://keras.io/), [TensorFlow](http://tensorflow.org/) and other frameworks.
+It'll guide you through the all necessary steps to create your keras classification model. 
 
 * <b>Dicom_to_nrrd_converter</b>
 Script which will allow you to convert your own dicom data to volume format (nrrd).
